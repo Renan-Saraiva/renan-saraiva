@@ -14,8 +14,8 @@
 
 - 🏢 I'm currently working at **Neon Pagamentos**
 - ⚙️ I use daily: `.cs`, `.js`, `.ts`, `.sql`
-- 🌱 Learning all about **gRPC**, **microservices**, **software architecture**
-- 💬 Ping me about **dotnet**, **development**, **clean code**
+- 🌱 Learning all about **gRPC**, **microservices** and **software architecture**
+- 💬 Ping me about **dotnet**, **development** and **clean code**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/renan-saraiva/)
 
 <hr />
